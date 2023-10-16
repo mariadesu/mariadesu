@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello World !! 😺 I'm Maria</h1>
 
-<!--
-**mariadesu/mariadesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I’m currently studying **Computer Science** at UERJ
 
-Here are some ideas to get you started:
+- 💻 I’m looking for an **internship in back-end development**
+  
+- 📖 I’m currently learning **back-end with Java**
+  
+- ✈️ Fun fact: I love traveling and meeting new places
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀💻 Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
